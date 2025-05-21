@@ -1,0 +1,17 @@
+py4j
+pandas
+dropbox
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+google-analytics-data
+google-cloud-bigquery
+openpyxl
+pymongo
+db-dtypes
+gspread
+oauth2client
+python-dotenv
+pymysql
+beautifulsoup4
+scrapy
